@@ -33,3 +33,4 @@ if __name__ == '__main__':
     EPOCHS = 10
 
     main(data=OR, eta=ETA, epochs=EPOCHS, filename="or.model", plotFileName="or.png")
+
