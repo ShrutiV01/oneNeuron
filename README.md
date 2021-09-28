@@ -25,7 +25,7 @@ cp Research\ notebooks/demo.ipynb .
 
 
  ## Python code
-    
+
  ```python   
  def main(data, eta, epochs, filename, plotFileName):
     df = pd.DataFrame(data)
@@ -38,3 +38,18 @@ cp Research\ notebooks/demo.ipynb .
     save_plot(df, plotFileName, model)
 
  ```
+
+ ## dataset
+
+ x1 | x2 | y 
+ -|-|-
+ 0|0|0
+ 0|1|0
+ 1|0|0
+ 1|1|1
+
+ ### pointers
+ * point 1
+ * point 2
+
+ 1.point
